@@ -9,7 +9,10 @@ It uses green colors to emphasize the greenery and nature style I was going for 
 ![image](https://user-images.githubusercontent.com/102916500/173247382-9de7fd88-3652-4f05-8b9c-9b9cd251f697.png)
 
 
-## Use
+
+## Find
 This extension is available on the VS code marketplace.
-Just search for " Evergreen Dark" and you will see the theme.🐢
+You can find and install it under https://marketplace.visualstudio.com/items?itemName=sudofinn.evergreen-dark
+Or you can maybe also  search for " Evergreen Dark Theme for Nature" directly in Vs code and you will see the theme.🐢
+
 
