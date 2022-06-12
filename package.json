@@ -1,0 +1,21 @@
+{
+    "name": "evergreen-dark",
+    "displayName": "Evergreen Dark",
+    "description": "A green colorscheme for VS Code dedicated to people who love nature.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Evergreen Dark ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Evergreen Dark -color-theme.json"
+            }
+        ]
+    }
+}
