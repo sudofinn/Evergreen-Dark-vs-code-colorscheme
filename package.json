@@ -2,7 +2,7 @@
     "name": "evergreen-dark",
     "displayName": "Evergreen Dark Theme for Nature",
     "description": "A green colorscheme for VS Code dedicated to people who love nature.",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "publisher": "sudofinn",
     "icon": "extensionpic.png",
     "engines": {
