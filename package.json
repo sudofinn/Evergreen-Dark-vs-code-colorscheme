@@ -4,7 +4,7 @@
     "description": "A green colorscheme for VS Code dedicated to people who love nature.",
     "version": "1.4.0",
     "publisher": "sudofinn",
-    "icon": "extensionpic.png",
+    "icon": "EvergreenDark.png",
     "engines": {
         "vscode": "^1.68.0"
     },
